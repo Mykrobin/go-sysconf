@@ -39,6 +39,13 @@ func main() {
 	}
 }
 ```
+## ImportantLinks
+
+Package required to read system resource usage using GO language.
+
+* [go-sysconf](https://github.com/Mykrobin/go-sysconf)
+* [golang.org](https://github.com/Mykrobin/golang.org)
+* [gopsutil](https://github.com/Mykrobin/gopsutil)
 
 ## References
 
